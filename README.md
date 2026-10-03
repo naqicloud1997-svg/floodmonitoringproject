@@ -1,5 +1,6 @@
 
-- <h1>heres the link to the application:</h1>
+[Link to the project application]
+(https://flood-monitoring.netlify.app/)
 
 
 - FOR FLOOD MONITORING APPLICATION THIS IS THE FRONT PAGE
